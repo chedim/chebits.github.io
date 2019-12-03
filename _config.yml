@@ -29,7 +29,8 @@ twitter_username: chedim
 github_username: chedim
 
 # Build settings
-theme: minima 
+#theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-feed
 
