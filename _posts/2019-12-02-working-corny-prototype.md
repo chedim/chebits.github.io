@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A quick update on the Corny project"
 ---
 

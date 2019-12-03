@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Corny r3 render"
 date: 2019-12-02 17:56
 ---
