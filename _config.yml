@@ -22,7 +22,7 @@ title: chebits.com
 email: chedim@chedim.com
 description: >- # this means to ignore newlines until "baseurl:"
   Chedim's blog about all his devices. Configured and written entirely
-  on the first working prototype of Corny keyboard.
+  on Corny - the first mobile phone keyboard for touch-typists.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://chebits.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chedim
