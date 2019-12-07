@@ -70,3 +70,9 @@ set-option -g detach-on-destroy off
 
 The first line shares ssh-agent across multiple sessions; the second line instructs tmux to automatically switch to another session upon closing last session window (the default behaviour is to exit tmux).
 
+## Using
+In order to create or re-attach to a remote session, simply enter the following command:
+
+```
+rmux HOSTNAME
+```
