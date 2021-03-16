@@ -3,7 +3,7 @@
 This is just a note that, if you have a rooted android phone with termux then you can use it to flash QMK from your phone:
 
 * Install a linux distribution using termux-proot (I used Kali Linux)
-* Use this script (replace `<USER>` with your username) to launch installed distro (please note that it runs as root and uses chroot instead of proot):
+* Use this script (replace `<USER>` with your username) to launch installed distro (please note that it runs as root to get access to `/dev`):
 ```
 #!/data/data/com.termux/files/usr/bin/bash -e
 unset LD_PRELOAD
